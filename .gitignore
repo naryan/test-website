@@ -10,3 +10,4 @@ node_modules/*
 libs/utils/logs/
 libs/utils/logs/*
 *.log
+config/
